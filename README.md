@@ -12,7 +12,7 @@ docker pull jadcock/speedtest-cli
 
 build locally:
 ```
-git clone git@github.com:joeadcock/speedtest-cli.git
+git clone https://github.com/joeadcock/speedtest-cli.git
 cd speedtest-cli
 docker build -t jadcock/speedtest-cli .
 ```
